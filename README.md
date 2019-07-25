@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/GrantMCA93/e-commerce.svg?branch=master)](https://travis-ci.org/GrantMCA93/e-commerce)       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
+[![Build Status](https://travis-ci.org/GrantMCA93/e-commerce.svg?branch=master)](https://travis-ci.org/GrantMCA93/e-commerce)
+
+/ _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
       / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
  ----------------------------------------------------------------- 
